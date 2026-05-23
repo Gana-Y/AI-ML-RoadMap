@@ -6,7 +6,7 @@
 > A complete step-by-step roadmap to become a hired AI Engineer 
   in 8 months — based on a real success story.
 
-> 📢 **This roadmap is personalized for MCA students aspiring 
+> 📢 **This roadmap is personalized for  students aspiring 
   to become AI Engineers. Star ⭐ this repo if it helps you!**
 
 ---
